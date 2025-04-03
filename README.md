@@ -12,7 +12,9 @@ A modern e-commerce application built with Flutter following Clean Architecture 
 <p align="center">
   <!-- Add your screenshots here -->
   <img src="assets/screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="assets/screenshots/product_details.png" width="200" alt="Product Details"/>
+  <img src="assets/screenshots/details.png" width="200" alt="Product Details"/>
+  <img src="assets/screenshots/categories.png" width="200" alt="categories"/>
+  <img src="assets/screenshots/login.png" width="200" alt="login"/>
   <img src="assets/screenshots/cart.png" width="200" alt="Shopping Cart"/>
 </p>
 
