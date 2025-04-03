@@ -1,0 +1,2 @@
+C:/Users/eslam/Desktop/AppsForked/ecommerce_app_udemy_course-start_from_logic/android/app/.cxx/Debug/5r1p2g5y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/eslam/Desktop/AppsForked/ecommerce_app_udemy_course-start_from_logic/android/app/.cxx/Debug/5r1p2g5y/x86_64/CMakeFiles/rebuild_cache.dir
